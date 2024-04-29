@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: modifiedxpbarforlusiel
+Specification-Vendor: sjhub
+Specification-Version: 1
+Implementation-Title: ModifiedXpBarForLusiel
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: sjhub
+Implementation-Timestamp: 2024-03-12T15:15:27+0900
+
